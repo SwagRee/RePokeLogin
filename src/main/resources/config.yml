@@ -1,0 +1,11 @@
+LoginMessage:
+  title: "&e登录系统"
+  text: "请输入你的密码"
+RegisterMessage:
+  title: "&e注册系统"
+  text: "请输入你希望的密码"
+OnceAgainRegisterMessage:
+  title: "&e注册系统"
+  text: "请再次输入密码"
+RegisterPasswordMessage:
+  message: "&c对不起，两次密码不一致，请重新输入"

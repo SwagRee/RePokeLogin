@@ -1,0 +1,8 @@
+name: RePokeLogin
+version: '1.0'
+main: io.github.swagree.repokelogin.Main
+depend:
+  - TXZ
+commands:
+  rpl:
+    description: "for login"
